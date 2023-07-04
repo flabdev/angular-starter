@@ -21,6 +21,7 @@
 
 ## Prerequsites
 node (please install node in your machine to continue.)
+Git
 
 
 ## Install / Development
