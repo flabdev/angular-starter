@@ -55,7 +55,7 @@ $ docker run -p 3000:80 angular-starter
 - `npm run test` - Run unit tests
 - `npm run build` - Build the project
 - `npm run build:prod` - Build the project in production mode
-- `npm run build:prod:stats` - Build the project in product mode with stats
+- `npm run build:prod:stats` - Build the project in production mode with stats
 - `npm run analyse` - Analyse bundle with [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer)
 - `npm run compodoc` - Generate [compodoc](https://github.com/compodoc/compodoc) documentation
 - `npm run version` - Generate changelog
