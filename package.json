@@ -2,12 +2,8 @@
   "name": "angular-starter",
   "version": "0.0.1",
   "description": "The Angular starter / boilerplate project to start a new enterprise project",
-  "author": "Wilfried Lucha <wilfried@lucha.at>",
-  "homepage": "https://lucha.at",
+  "author": "vamshi-fission",
   "license": "MIT",
-  "contributors": [
-    "Wilfried Lucha <wilfried@lucha.at>"
-  ],
   "keywords": [
     "angular",
     "angular 15",
@@ -26,11 +22,7 @@
     "eslint",
     "storybook"
   ],
-  "repository": "https://github.com/wlucha/angular-starter.git",
-  "bugs": {
-    "url": "https://github.com/wlucha/angular-starter/issues"
-  },
-  "readme": "https://github.com/wlucha/angular-starter/blob/master/README.md",
+
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
