@@ -19,6 +19,9 @@
 
 <hr>
 
+## Prerequsites
+node (please install node in your machine to continue.)
+
 
 ## Install / Development
 
