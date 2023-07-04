@@ -22,9 +22,6 @@
 ## Deploy
 
 
-## Demo
-
-
 ## Install / Development
 
 ```bash
