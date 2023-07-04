@@ -1,6 +1,6 @@
 ![81993396-d5142b00-9645-11ea-995f-98342b7d5c8f](https://user-images.githubusercontent.com/7531596/128626297-df86020b-1cdc-43b5-a692-6c4c45534ec1.png)
 
-> The Angular starter / boilerplate project to start a new enterprise project.
+> The Angular starter kit to start a new enterprise project.
 
 ✅ [Angular 16](https://angular.io/)  
 ✅ [Angular Material](https://material.angular.io/)  
